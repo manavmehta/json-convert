@@ -1,0 +1,64 @@
+{
+  "browser_versions": {
+    "BRV100021527790708114": {
+      "code": "chrome",
+      "name": "Google Chrome"
+    },
+    "BRV100021534997675139": {
+      "code": "chrome",
+      "name": "Google Chrome"
+    },
+    "BRV100021527790708116": {
+      "code": "internet",
+      "name": "Internet"
+    },
+    "BRV100021527790708117": {
+      "code": "safari",
+      "name": "Safari"
+    },
+    "BRV100021527790708121": {
+      "code": "safari",
+      "name": "Safari"
+    },
+    "BRV192168181604559273975879": {
+      "code": "safari",
+      "name": "Safari"
+    },
+    "BRV192168181604559273975880": {
+      "code": "safari",
+      "name": "Safari"
+    },
+    "BRV100021527790708118": {
+      "code": "chrome",
+      "name": "Chromium"
+    },
+    "BRV100021534997675147": {
+      "code": "chrome",
+      "name": "Chromium"
+    },
+    "BRV100021527790708119": {
+      "code": "mozilla",
+      "name": "Firefox"
+    },
+    "BRV100021534997675148": {
+      "code": "mozilla",
+      "name": "Firefox"
+    },
+    "BRV100021527790708120": {
+      "code": "opera",
+      "name": "Opera"
+    },
+    "BRV100021534997675140": {
+      "code": "opera",
+      "name": "Opera"
+    },
+    "BRV100021534997675165": {
+      "code": "chrome",
+      "name": "Google Chrome"
+    },
+    "BRV100021534997675164": {
+      "code": "mozilla",
+      "name": "Firefox"
+    }
+  }
+}
